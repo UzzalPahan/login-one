@@ -46,7 +46,6 @@
     padding-left:30px;
     padding-right:30px;
     border-color: red;
-    color: #fff;
     transition: 0.8s;
 }
 .login input[type= "submit"]
